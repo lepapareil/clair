@@ -2,11 +2,17 @@
 
 --------------------------------------------------------------------------------
 clair adaption to run in K8s to use with [klar](https://github.com/optiopay/klar/)
---------------------------------------------------------------------------------
 
 adaptions:
-- [contrib/k8s/clair-kubernetes.yaml](contrib/k8s/clair-kubernetes.yaml)
-- [contrib/k8s/config.yaml](contrib/k8s/config.yaml)
+- [clair and postgres docker images adapted](https://github.com/lotharschulz/clair/commit/0690bd2cd4e5abfe8b3a392435e79550c73270d8)
+  - [contrib/k8s/clair-kubernetes.yaml](contrib/k8s/clair-kubernetes.yaml)
+  - [contrib/k8s/config.yaml](contrib/k8s/config.yaml)
+
+
+--------------------------------------------------------------------------------
+
+# original clar readme:
+
 
 [![Build Status](https://api.travis-ci.org/coreos/clair.svg?branch=master "Build Status")](https://travis-ci.org/coreos/clair)
 [![Docker Repository on Quay](https://quay.io/repository/coreos/clair/status "Docker Repository on Quay")](https://quay.io/repository/coreos/clair)
