@@ -11,7 +11,7 @@ adaptions:
 
 --------------------------------------------------------------------------------
 
-# original clar readme:
+# original Clair readme:
 
 
 [![Build Status](https://api.travis-ci.org/coreos/clair.svg?branch=master "Build Status")](https://travis-ci.org/coreos/clair)
