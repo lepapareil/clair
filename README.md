@@ -1,4 +1,4 @@
-# Clair
+# Fork of [Clair](https://github.com/coreos/clair)
 
 [![Build Status](https://api.travis-ci.org/coreos/clair.svg?branch=master "Build Status")](https://travis-ci.org/coreos/clair)
 [![Docker Repository on Quay](https://quay.io/repository/coreos/clair/status "Docker Repository on Quay")](https://quay.io/repository/coreos/clair)
