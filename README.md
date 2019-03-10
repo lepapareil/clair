@@ -1,5 +1,13 @@
 # Fork of [Clair](https://github.com/coreos/clair)
 
+--------------------------------------------------------------------------------
+clair adaption to run in K8s to use with [klar](https://github.com/optiopay/klar/)
+--------------------------------------------------------------------------------
+
+adaptions:
+- [contrib/k8s/clair-kubernetes.yaml](contrib/k8s/clair-kubernetes.yaml)
+- [contrib/k8s/config.yaml](contrib/k8s/config.yaml)
+
 [![Build Status](https://api.travis-ci.org/coreos/clair.svg?branch=master "Build Status")](https://travis-ci.org/coreos/clair)
 [![Docker Repository on Quay](https://quay.io/repository/coreos/clair/status "Docker Repository on Quay")](https://quay.io/repository/coreos/clair)
 [![Go Report Card](https://goreportcard.com/badge/coreos/clair "Go Report Card")](https://goreportcard.com/report/coreos/clair)
